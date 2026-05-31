@@ -14,11 +14,6 @@ on the Teddy Cup and SciOL datasets demonstrate that TIF-Contrast significantly 
 text-image baselines, achieving accuracy gains of 12.3% and 8.7%, respectively. Ablation studies further
 validate the efficacy of the proposed alignment and fusion strategies.
 
-<div align="center">
-  <span style="display: inline-block; background: white; padding: 10px; border-radius: 5px;">
-  <img src="assets/CoMM_training.png" width="60%" />
-  </span>
-</div>
 
 ## Installation
 
